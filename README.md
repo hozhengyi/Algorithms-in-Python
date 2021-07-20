@@ -1,9 +1,9 @@
 # Algorithms In Python
-A repository containing algorithm implemented with python3 to solve a mix of NP and P problems such as the TSP, 2-SAT, Minimum Cut, All Pairs Shortest Paths and many more..
+A repository containing algorithms that I have implemented with python3 to solve a mix of NP and P problems such as the TSP, 2-SAT, Minimum Cut, All Pairs Shortest Paths and many more..
 
 
 # Files
-This repo contains my python implementation of the following problem. The list below will describe in more detail the approach i used, the shortcomings of my code, and quirks. All solution files assumes input to be from a text file, the output is formatted based on the problem i was solving. The input and output part will probably throw errors, but the algorithmic implementation is correct.
+This repo contains my python implementation of many famous problems. The list below will describe in more detail the approach i used, the shortcomings of my code, and quirks. All solution files assumes input to be from a text file, the output is formatted based on the problem i was solving. The input and output part will probably throw errors, but the algorithmic implementation is correct.
 
 ## List
 
