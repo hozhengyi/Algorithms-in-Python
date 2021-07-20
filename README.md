@@ -5,6 +5,8 @@ A repository containing algorithm implemented with python3 to solve a mix of NP 
 # Files
 This repo contains my python implementation of the following problem. The list below will describe in more detail the approach i used, the shortcomings of my code, and quirks. All solution files assumes input to be from a text file, the output is formatted based on the problem i was solving. The input and output part will probably throw errors, but the algorithmic implementation is correct.
 
+## List
+
 - `HuffmanEncoding-Solution.py` is the greedy solution to building a huffman encoding tree that minimises the average bits needed per character during encoding. 
 - `TSP-GeneticAlgorithm-Solution.py` is the genetic algorithmic (GA) solution to the travelling salesman problem (TSP). My GA solution has to has its population and mutation carefully tuned to minimised getting stuck in local optimas. I choose to use a simple ordered crossover during breeding to maintain TSP invariants, and a routelette wheel selection with a swap mutation (cities are swapped). My GA solution has runtime far superior to dyanamic prgramming approaches (~80 seconds versus 720+ seconds).
 - `Inversion-Couting-Mergesort.py` A simple alteration to mergesort to use it to count inversions between two arrays
