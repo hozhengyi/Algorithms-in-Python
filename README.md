@@ -7,6 +7,7 @@ This repo contains my python implementation of many famous problems and data str
 
 # Quick search 
 -> [Go to Algorithms Section](##Algorithms)
+
 -> [Go to Data Structures Section](##Data-Structures)
 
 ## Algorithms
