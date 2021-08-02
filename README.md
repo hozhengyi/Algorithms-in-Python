@@ -6,9 +6,9 @@ A repository containing algorithms that I have implemented with python3 to solve
 This repo contains my python implementation of many famous problems and data structures. The README below will describe in more detail the approach i used, the shortcomings of my code, and quirks. All solution files assumes input to be from a text file, the output is formatted based on the problem i was solving. The input and output part will probably throw errors, but the algorithmic implementation is correct. 
 
 # Quick search 
--> [Go to Algorithms Section](##-Algorithms)
+-> [Go to Algorithms Section](## Algorithms)
 
--> [Go to Data Structures Section](##-Data-Structures)
+-> [Go to Data Structures Section](## Data-Structures)
 
 ## Algorithms
 
