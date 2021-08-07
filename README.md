@@ -23,3 +23,4 @@ This repo contains my python implementation of many famous problems and data str
 
 ## Data Structures
 -`PositionalDoublyLinkedList.py` is my python implementation of a doubly linked list with a positional wrapper around for arbitrary insertion and deletion anywhere in O(1) time
+-`AdjacencyList.py` Python implementation of a adjacency list representation of a graph with the graph, vertices and edges as user-defined objected. Supports both directed and undirected edges
