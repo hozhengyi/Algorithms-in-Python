@@ -22,6 +22,5 @@ This repo contains my python implementation of many famous problems and data str
 - `MWIS-DPP-Solution.py` finding the maximum weight indepedant set in a path graph using dynamic programming with a bottom-up tabulation approach. Instead of maintaining a full 2D array, i used a python dictionary to save only the previous results, thereby significantly speeding up my algorithm and saving space.
 
 ## Data Structures
--`PositionalDoublyLinkedList.py` is my python implementation of a doubly linked list with a positional wrapper around for arbitrary insertion and deletion anywhere in O(1) time
-
--`AdjacencyList.py` Python implementation of a adjacency list representation of a graph with the graph, vertices and edges as user-defined objected. Supports both directed and undirected edges
+- `PositionalDoublyLinkedList.py` is my python implementation of a doubly linked list with a positional wrapper around for arbitrary insertion and deletion anywhere in O(1) time
+- `AdjacencyList.py` Python implementation of a adjacency list representation of a graph with the graph, vertices and edges as user-defined objected. Supports both directed and undirected edges
